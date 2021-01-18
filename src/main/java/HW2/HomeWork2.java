@@ -93,7 +93,7 @@ public class HomeWork2 {
         }
     }
 }
-//123
+//c
 // заготовка для задачи 4 второстепенной диагонали
 //        System.out.println("Замена второй диагонали на '2':");
 //        for (int i = 0; i < ArrayTwo.length; i++) {
